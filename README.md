@@ -1,4 +1,4 @@
-# (Source Code Installer)
+# Source Code Installer
 
 This repository is a fix/alternative for the official **ACCELA** installer, originally hosted at [ciscosweater/enter-the-wired](https://github.com/ciscosweater/enter-the-wired).
 
@@ -28,11 +28,13 @@ Follow the steps below in your terminal to clone the repository and complete the
 ### 1. Clone the Repository
 Open your terminal and clone this repository to your machine:
 ```bash
-git clone [https://github.com/Cybercountry/ACCELA_FIX.gi](https://github.com/Cybercountry/ACCELA_FIX.git)
+git clone https://github.com/Cybercountry/ACCELA_FIX.git
 ```
 
 ### 2. Enter the Folder
-`cd ACCELA_FIX`
+```bash 
+cd ACCELA_FIX
+```
 
 ### 3. Run the Installer
 To start the process, just run the main script:
